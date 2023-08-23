@@ -8,14 +8,4 @@
 
 # My skillset 💻
 
-- 🧱 HTML
-- 🖌️ CSS
-- 🎨 SASS
-- ⚙️ JavaScript
-- ⚛️ ReactJS
-- ⏭️ NextJS
-- 🗃️ PHP
-- 🐘 MySQL
-- 📃 API
-- 🌬️ Tailwind CSS
-- 🥾 Bootstrap
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
