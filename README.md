@@ -6,7 +6,7 @@
 
 - 🚀 My journey in the world of web development began with a fascination for the seamless blend of technology and artistry. From responsive layouts to interactive UI components, I specialize in creating visually stunning and highly intuitive user interfaces. I thrive on the challenge of turning complex problems into elegant solutions through the power of code.
 
-# My skillset
+# My skillset 💻
 
 - 🧱 HTML
 - 🖌️ CSS
