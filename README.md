@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/qNCYhC3/Tom-Schlyahtin.jpg" alt="banner"></img>
 
-# Who am I 😊
+# About me 😊
 
 - 👋 I'm Artyom (you can call me Tom), a passionate front-end developer with a love for crafting engaging and user-centric digital experiences. With a creative mind and a keen eye for design, I transform ideas into beautiful, functional websites and web applications.
 
@@ -28,3 +28,10 @@
 * [🏘️ Property](https://github.com/artyom285/property)
 * [🌍 Develop](https://github.com/artyom285/develop)
 * [🎮 Games](https://github.com/artyom285/web-store)
+
+# Let's connect 📲
+
+- 🏆 Collaboration and knowledge-sharing are at the core of what I do. I'm excited to connect with fellow developers, designers, and anyone who shares my passion for creating outstanding web experiences. Feel free to explore my projects and reach out if you'd like to discuss ideas, collaborate, or just geek out about front-end development!
+
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/artyom-shlyahtin-568a1a289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FBOnpU83SN6entxdV%2FbPNA%3D%3D) to stay updated on my latest adventures in the world of front-end development.
+
