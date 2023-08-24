@@ -7,3 +7,7 @@
 - 🚀 My journey in the world of web development began with a fascination for the seamless blend of technology and artistry. From responsive layouts to interactive UI components, I specialize in creating visually stunning and highly intuitive user interfaces. I thrive on the challenge of turning complex problems into elegant solutions through the power of code.
 
 # My skillset 💻
+
+<div class="langs" style="display: flex;">
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+</div>
