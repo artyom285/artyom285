@@ -25,3 +25,6 @@
 # Showcase 🔥
 
 * [💪 Gym Nation](https://github.com/artyom285/gym-nation)
+* [🏘️ Property](https://github.com/artyom285/property)
+* [🌍 Develop](https://github.com/artyom285/develop)
+* [🎮 Games](https://github.com/artyom285/web-store)
