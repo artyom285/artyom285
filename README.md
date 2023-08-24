@@ -6,8 +6,6 @@
 
 - 🚀 My journey in the world of web development began with a fascination for the seamless blend of technology and artistry. From responsive layouts to interactive UI components, I specialize in creating visually stunning and highly intuitive user interfaces. I thrive on the challenge of turning complex problems into elegant solutions through the power of code.
 
-# My skillset 💻
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
