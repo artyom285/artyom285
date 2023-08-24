@@ -24,4 +24,4 @@
 
 # Showcase 🔥
 
-* ![💪 Gym Nation](https://github.com/artyom285/gym-nation)
+* [💪 Gym Nation](https://github.com/artyom285/gym-nation)
